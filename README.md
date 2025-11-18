@@ -2,13 +2,6 @@
 
 This project builds a machine learning model to detect fake news based on text content using Natural Language Processing (NLP) and a Logistic Regression classifier.
 The workflow includes data preprocessing, text cleaning, stemming, TF-IDF vectorization, model training, and evaluation.
-
-📌 Project Structure
-├── Fake_News_Prediction.ipynb   # Main notebook (uploaded)
-├── fake_news_prediction.py      # Python script version
-├── train.csv                    # Dataset (not included here)
-└── README.md                    # Documentation
-
 🔧 Technologies Used
 
 Python
