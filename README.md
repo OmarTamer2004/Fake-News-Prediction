@@ -1,5 +1,4 @@
-
-📰 Fake News Prediction using NLP & Logistic Regression
+**📰 Fake News Prediction using NLP & Logistic Regression**
 
 This project builds a machine learning model to detect fake news based on text content using Natural Language Processing (NLP) and a Logistic Regression classifier.
 The workflow includes data preprocessing, text cleaning, stemming, TF-IDF vectorization, model training, and evaluation.
